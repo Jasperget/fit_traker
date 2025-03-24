@@ -1,10 +1,9 @@
 package main
 
 import (
+	"fit_traker/internal/daysteps"
+	"fit_traker/internal/spentcalories"
 	"fmt"
-
-	"github.com/Yandex-Practicum/go1fl-4-sprint-final/internal/daysteps"
-	"github.com/Yandex-Practicum/go1fl-4-sprint-final/internal/spentcalories"
 )
 
 func main() {
